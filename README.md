@@ -11,11 +11,11 @@
 
 
 <hr>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueArroyo&custom_title=HISTÓRICO%20DE%20ATIVIDADE&hide_border=true&theme=high-contrast)
 <div align=center>
 <img align="center" src="https://profile-counter.glitch.me/{HenriqueArroyo}/count.svg" />
 </div>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueArroyo&custom_title=HISTÓRICO%20DE%20ATIVIDADE&hide_border=true&theme=high-contrast)
+
 <hr>
 
 <div align=center>
