@@ -4,7 +4,7 @@
 <h1 align='center'>
     Olá, mundo!  
   </h1>
-  <h2> Eu sou Henrique de Barros Arroyo.</h2>
+  <h2 align='center'> Meu nome é Henrique Arroyo.</h2>
   <p align='center'>
     Desenvolvedor de Limeira, São Paulo.
   </p>
