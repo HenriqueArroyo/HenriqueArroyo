@@ -1,7 +1,7 @@
 
 
 
-
+<img src="https://camo.githubusercontent.com/b8c5dc0d3b9d96a5d9d7c1ffcc2736ed090a252851a034e74fb56890e6c02c21/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d314539304646266865696768743d38302673656374696f6e3d686561646572"/>  
 <h1 align='center'>
     Hi there 👋 I'm Henrique Arroyo.  
   </h1>
@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     </p>
 
   
