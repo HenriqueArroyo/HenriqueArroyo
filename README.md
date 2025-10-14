@@ -2,11 +2,11 @@
 
 
 <h1 align='center'>
-    Hello!!  I'm Henrique Arroyo.
+    Olá, mundo!  
   </h1>
-  
+  <h2> Eu sou Henrique de Barros Arroyo.</h2>
   <p align='center'>
-    A Software developer from Limeira, São Paulo.
+    Desenvolvedor de Limeira, São Paulo.
   </p>
   
   <p align='center'>
