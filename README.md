@@ -1,11 +1,12 @@
 
 
 
+
+  <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <h1 align='center'>
     Olá, Meu nome é Henrique Arroyo.  
   </h1>
-  <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
   <p align='center'>
     Desenvolvedor de Limeira, São Paulo.
   </p>
