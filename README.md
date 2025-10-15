@@ -10,12 +10,7 @@
   </p>
   
   <p align='center'>
-    <a href="https://api.whatsapp.com/send?phone=5519991964951">
-      <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-    </a>
-    <a href="https://br.linkedin.com/in/henrique-arroyo">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+
   <p align='center'>
     <br/>🧠 Minha Stack<br/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -38,5 +33,11 @@
   
   <p align='center'>
     📫 Entre contato: <a href='mailto:barros.henrique.arroyo@gmail.com'>barros.henrique.arroyo@gmail.com</a>
-  </p>
+      <a href="https://api.whatsapp.com/send?phone=5519991964951">
+      <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+    </a>
+    <a href="https://br.linkedin.com/in/henrique-arroyo">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+ </p>
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>  
