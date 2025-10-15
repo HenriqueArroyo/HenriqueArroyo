@@ -12,7 +12,7 @@
   <p align='center'>
 
   <p align='center'>
-    <br/>🧠 Minha Stack<br/>
+    <br/>🧠 Minha Stack<br/><br> <br>
     <img style="margin-top:5px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -20,9 +20,9 @@
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <br>
+    <br><br> <br>
     🛠 Ferramentas Favoritas 
-    <br>
+    <br> <br>
     <img style="margin-bottom:5px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
@@ -31,9 +31,9 @@
 
   
   
-  <p style="margin-bottom:5px" align='center'>
+  <p  align='center'>
     📫 Entre contato: <a href='mailto:barros.henrique.arroyo@gmail.com'>barros.henrique.arroyo@gmail.com</a>
-      <br>
+      <br> <br> <br>
       <a href="https://api.whatsapp.com/send?phone=5519991964951">
       <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
     </a>
