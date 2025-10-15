@@ -33,7 +33,6 @@
   
   <p style="margin-bottom:5px" align='center'>
     📫 Entre contato: <a href='mailto:barros.henrique.arroyo@gmail.com'>barros.henrique.arroyo@gmail.com</a>
-       </p>
       <br>
       <a href="https://api.whatsapp.com/send?phone=5519991964951">
       <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
@@ -41,5 +40,5 @@
     <a href="https://br.linkedin.com/in/henrique-arroyo">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-
+    </p>
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>  
