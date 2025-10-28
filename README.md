@@ -31,7 +31,7 @@
   
   
   <p  align='center'>
-    📫 Entre contato: <a href='mailto:barros.henrique.arroyo@msn.com'>barros.henrique.arroyo@gmail.com</a>
+    📫 Entre contato: <a href='mailto:barros.henrique.arroyo@gmail.com'>barros.henrique.arroyo@gmail.com</a>
       <br> <br> 
       <a href="https://api.whatsapp.com/send?phone=5519991964951">
       <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
